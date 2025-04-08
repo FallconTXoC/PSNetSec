@@ -129,6 +129,7 @@ devices:
 
 ## Roadmap
 
+- [ ] Improve modularity
 - [ ] SNMP v2 & v3 support
 - [ ] More complete IP scanning options
 
