@@ -127,6 +127,11 @@ devices:
       - .1.3.6.1.4.1.12356.100.1.1.1.0
 ```
 
+## Roadmap
+
+- [ ] SNMP v2 & v3 support
+- [ ] More complete IP scanning options
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
