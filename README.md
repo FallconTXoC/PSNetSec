@@ -1,5 +1,7 @@
 # PSNetSec
 
+![image](https://private-user-images.githubusercontent.com/84561183/431515774-169891cf-30a5-4e99-974a-2a8a8ed35355.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQxMzYyODcsIm5iZiI6MTc0NDEzNTk4NywicGF0aCI6Ii84NDU2MTE4My80MzE1MTU3NzQtMTY5ODkxY2YtMzBhNS00ZTk5LTk3NGEtMmE4YThlZDM1MzU1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDA4VDE4MTMwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY0MGVhMzYxOTFmNmIyZmY3YjE3Zjk1ZTZhNjk4NmQ1Yzk2NTFhYzQ2OTIwNzU4YTMzZTZlMDExOTRiNjNmMzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-tSljl_dmyw1rXEDRX999ywSGsZGIY3SAP639LxS1mc)
+
 ## About
 
 PSNetSec is an open-source PowerShell-based toolkit designed for network administrators and security professionals. It provides tools for network scanning, SNMP data retrieval, and secure data handling. The project leverages multithreading for efficient processing and supports encryption for sensitive data.
@@ -30,8 +32,8 @@ PSNetSec/
 │   ├── SNMPLib.psd1               # Manifest for SNMP library
 │   ├── SNMPLib.psm1               # Functions for SNMP data retrieval
 ├── models/
-│   ├── ExceptionsModel.psm1       # Custom exception classes
-│   ├── RestModel.psm1             # REST API interaction classes
+│   ├── ExceptionsModel.psm1       # Custom exception classes      [Currently unused]
+│   ├── RestModel.psm1             # REST API interaction classes  [Currently unused]
 ├── README.md               # Project documentation
 ```
 
