@@ -9,7 +9,7 @@ PSNetSec is an open-source PowerShell-based toolkit designed for network adminis
 ## Features
 
 - **Network Scanning**: Perform ICMP-based network scans to detect devices and their statuses.
-- **SNMP Data Retrieval**: Collect detailed information from devices using SNMP protocols.
+- **SNMP Data Retrieval**: Collect detailed information from devices using SNMP v1 protocol.
 - **Multithreading**: Utilize multithreading to speed up operations like scanning and data retrieval.
 - **Encryption**: Secure sensitive data using AES encryption (CBC for PowerShell 5, GCM for PowerShell 7).
 - **Customizable**: Easily configure known devices and SNMP OIDs using CSV and YAML files.
