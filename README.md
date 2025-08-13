@@ -36,9 +36,6 @@ PSNetSec/
 │   ├── SecurityLib.psm1           # Functions for encryption and security
 │   ├── SNMPLib.psd1               # Manifest for SNMP library
 │   ├── SNMPLib.psm1               # Functions for SNMP data retrieval
-├── models/
-│   ├── ExceptionsModel.psm1       # Custom exception classes      [Currently unused]
-│   ├── RestModel.psm1             # REST API interaction classes  [Currently unused]
 ├── README.md               # Project documentation
 ```
 
